@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+.waktu{
+    background-color: rgb(235,77,29);
+}
+
+.praktikum{
+    background-color: rgb(243,169,146);
+}
+
+.asdos{
+    background-color: rgb(255,234,129);
+}
